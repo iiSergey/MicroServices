@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  identityservice:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5001"
+
+  messagesservice:
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5501"
+
