@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using MessagesService.Models;
-using MessagesService.Models.Dto;
+using MessagesService.Models.Dto.MessageDto;
 using System;
 
 namespace MessagesService.Settings

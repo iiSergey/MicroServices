@@ -20,3 +20,14 @@ D:\Microservices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\Message
 D:\Microservices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\MessagesService.AssemblyInfo.cs
 D:\Microservices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\MessagesService.dll
 D:\Microservices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\MessagesService.pdb
+D:\prog\MicroServices\MessagesService\MessagesService\bin\Debug\netcoreapp2.0\MessagesService.deps.json
+D:\prog\MicroServices\MessagesService\MessagesService\bin\Debug\netcoreapp2.0\MessagesService.runtimeconfig.json
+D:\prog\MicroServices\MessagesService\MessagesService\bin\Debug\netcoreapp2.0\MessagesService.runtimeconfig.dev.json
+D:\prog\MicroServices\MessagesService\MessagesService\bin\Debug\netcoreapp2.0\MessagesService.dll
+D:\prog\MicroServices\MessagesService\MessagesService\bin\Debug\netcoreapp2.0\MessagesService.pdb
+D:\prog\MicroServices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\MessagesService.csprojAssemblyReference.cache
+D:\prog\MicroServices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\MessagesService.csproj.CoreCompileInputs.cache
+D:\prog\MicroServices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\MessagesService.AssemblyInfoInputs.cache
+D:\prog\MicroServices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\MessagesService.AssemblyInfo.cs
+D:\prog\MicroServices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\MessagesService.dll
+D:\prog\MicroServices\MessagesService\MessagesService\obj\Debug\netcoreapp2.0\MessagesService.pdb

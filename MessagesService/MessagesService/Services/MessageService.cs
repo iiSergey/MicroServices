@@ -1,7 +1,7 @@
 ﻿using AutoMapper;
 using MessagesService.EntityFrameworkCore;
 using MessagesService.Models;
-using MessagesService.Models.Dto;
+using MessagesService.Models.Dto.MessageDto;
 using Microsoft.EntityFrameworkCore;
 using System.Linq;
 using System.Threading.Tasks;

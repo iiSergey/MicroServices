@@ -1,14 +1,18 @@
-﻿using MessagesService.Models.Dto;
+﻿using System.Net;
+using MessagesService.Models.Dto.MessageDto;
 using MessagesService.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System.Threading.Tasks;
+using NSwag.Annotations;
 
 namespace MessagesService.Controllers
 {
     [ApiVersion("1.0")]
     [Produces("application/json")]
     [Route("api/v{version:apiVersion}/[controller]")]
+    [Authorize]
     public class MessagesController : Controller
     {
         public MessagesController(IMessageService messageService, ILogger<MessagesController> logger)
@@ -30,7 +34,7 @@ namespace MessagesService.Controllers
             var outputModel = await MessageService.CreateMessageAsync(inputModel).ConfigureAwait(false);
 
             return CreatedAtRoute("GetMessage",
-                new { id = outputModel.Id }, outputModel);
+                new { id = outputModel.Id }, outputModel);  //TODO: Error
         }
 
         [HttpDelete("delete/{id}")]

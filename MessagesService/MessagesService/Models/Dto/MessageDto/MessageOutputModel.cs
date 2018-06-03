@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MessagesService.Models.Dto
+namespace MessagesService.Models.Dto.MessageDto
 {
     public class MessageOutputModel
     {

@@ -13612,11 +13612,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Microservices\\MessagesService\\MessagesService\\MessagesService.csproj",
+      "projectUniqueName": "D:\\prog\\MicroServices\\MessagesService\\MessagesService\\MessagesService.csproj",
       "projectName": "MessagesService",
-      "projectPath": "D:\\Microservices\\MessagesService\\MessagesService\\MessagesService.csproj",
+      "projectPath": "D:\\prog\\MicroServices\\MessagesService\\MessagesService\\MessagesService.csproj",
       "packagesPath": "C:\\Users\\iiSergey\\.nuget\\packages\\",
-      "outputPath": "D:\\Microservices\\MessagesService\\MessagesService\\obj\\",
+      "outputPath": "D:\\prog\\MicroServices\\MessagesService\\MessagesService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

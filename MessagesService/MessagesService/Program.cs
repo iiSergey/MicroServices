@@ -34,7 +34,7 @@ namespace MessagesService
 
         public static void Main(string[] args)
         {
-            BuildWebHost(args).Run();
+            BuildWebHostDefault(args).Run();
         }
     }
 }

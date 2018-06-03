@@ -1,1 +1,0 @@
-c:\users\iisergey\documents\visual studio 2017\Projects\MessagesService\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
